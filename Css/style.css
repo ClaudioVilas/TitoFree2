@@ -8,14 +8,14 @@
     font-size: 17px;
 }
 
-.logoheader{
+.logoheader {
     display: flex;
     position: absolute;
     padding-left: 17px;
     padding-top: 30px;
 }
 
-.logoheadertito{
+.logoheadertito {
     display: flex;
     position: absolute;
     padding-left: 133px;
@@ -32,14 +32,62 @@
     text-align: start;
 }
 
-.fotopagina1{
+.fotopagina1 {
     display: flex;
     position: absolute;
 }
 
-.fotopagina2{
+.esparati {
     display: flex;
     position: absolute;
     padding-top: 554px;
     padding-left: 168px;
 }
+
+.quesepuedehacer {
+    display: flex;
+    position: absolute;
+    padding-top: 800px;
+    padding-left: 238px;
+}
+
+.ventajas {
+    display: flex;
+    position: absolute;
+    padding-top: 1315px;
+    padding-left: 168px;
+}
+
+
+.comofunciona {
+    display: flex;
+    position: absolute;
+    padding-top: 1704px;
+    padding-left: 168px;
+}
+
+
+#footertotal {
+    margin-top: 2309px;
+    margin-left: 200px;
+}
+
+
+.macbookpro {
+    display: flex;
+    position: absolute;
+    padding-top: 200px;
+    width: 500px;
+    margin-left: 1000px;
+}
+
+
+.rectangulofooter {
+    display: flex;
+    position: absolute;
+    padding-top: 700px;
+    margin-left: 0px;
+
+
+}
+
