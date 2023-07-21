@@ -81,13 +81,55 @@
     margin-left: 1000px;
 }
 
+#rectangulofooter{
+    margin-top: 200px;
+}
+
 
 .rectangulofooter {
     display: flex;
     position: absolute;
-    padding-top: 700px;
     margin-left: 0px;
-
-
 }
 
+
+.logotitofooter {
+    display: flex;
+    position: absolute;
+    padding-left: 17px;
+    margin-top: 150px;
+    z-index: 1;
+}
+
+.logotitofooter2 {
+    display: flex;
+    position: absolute;
+    padding-left: 133px;
+    margin-top: 230px;
+    z-index: 1;
+}
+
+
+
+.footerlist {
+    display: flex;
+    position: absolute;
+    height: 100px;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-size: 17px;
+    padding-top: 50px;
+    list-style: none;
+    text-align: end;
+}
+
+
+ .appstorebutton{
+    margin-left: 1200px;
+    margin-top: 700px;
+}
+
+
+.playstorebutton{
+    margin-left: 1200px;
+}
