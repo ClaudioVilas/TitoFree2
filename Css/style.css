@@ -128,6 +128,11 @@
     padding-top: 50px;
     list-style: none;
     text-align: end;
+
+}
+
+.trato, .api, .downloadfooter, .terms{
+        cursor: pointer;
 }
 
 
